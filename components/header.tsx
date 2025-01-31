@@ -29,8 +29,8 @@ export function Header({ selectedBrand, onBrandChange, isOpen, setIsOpen }: Head
         <div className='max-w-[1440px] mx-auto py-4 flex justify-between items-center'>
           <div className='w-32 sm:w-48 md:w-64'>
             <Image
-              src='/logo-TCG.svg'
-              alt='The Eye Doctor Unlimited'
+              src='/Logo-TCG.svg'
+              alt='The Creative Geeks'
               width={80}
               height={80}
               className='h-auto'
